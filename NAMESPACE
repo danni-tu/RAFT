@@ -3,6 +3,8 @@
 export(beta_warp_i)
 export(beta_warp_i_outer)
 export(loglik_pen_i)
+export(max_loglik_all)
+export(max_loglik_i)
 export(poly_warp_i)
 export(poly_warp_i_outer)
 export(warp_beta)
